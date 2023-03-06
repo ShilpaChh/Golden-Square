@@ -41,7 +41,7 @@ tests with RSpec.
 
 ### Phase Two: Skill Challenges
 
-Work through this series of challenges designed to help you learn a strong
+Work through this series of challenges designed to help you learn strong
 test-driving, object-oriented design, and debugging practices.
 
 Some of these challenges include [Process Feedback

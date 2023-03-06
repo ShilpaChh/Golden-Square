@@ -15,10 +15,11 @@ using `p` to print out values in the program and follow the flow of execution.
 We'll now show you another technique for discovery debugging — an interactive
 debugger.
 
-Put this in a file and run it using `ruby factorial.rb
+Put this in a file and run it using `ruby factorial.rb`:
 
 ```ruby
 # File: factorial.rb
+
 def factorial(n)
   product = 1
   while n > 0
@@ -70,6 +71,8 @@ the terminal pop up again and again as the loop cycles round until it finishes.
 Debug the following program:
 
 ```ruby
+# File: letter_counter.rb
+
 class LetterCounter
   def initialize(text)
     @text = text

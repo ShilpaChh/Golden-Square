@@ -13,7 +13,7 @@ How to get started:
 
 ```shell
 ; bundle install
-; rspec # all tests should pass
+; rspec # All tests should pass
 ; ruby run.rb # This will give you a few prompts and then an error
 ```
 

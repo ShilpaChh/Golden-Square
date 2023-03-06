@@ -36,7 +36,7 @@ what you did in the last exercise.
 > * The name of the method.
 > * What parameters it takes, their names and data types.
 > * What it returns and the data type of that value.
-> * Any other side effects it might have.
+> * Any side effects it might have.
 > 
 > Steps 3 and 4 then operate as a cycle.
 > 

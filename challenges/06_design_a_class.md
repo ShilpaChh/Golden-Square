@@ -28,7 +28,7 @@ the updated recipe:
 >   * Their names and purposes
 >   * What parameters they take and the data types.
 >   * What they return and that data type
->   * Any other side effects they might have.
+>   * Any side effects they might have.
 > 
 > Steps 3 and 4 then operate as a cycle.
 > 

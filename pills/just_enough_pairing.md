@@ -1,5 +1,8 @@
 # Just Enough Structure To Pair
 
+_[If you're looking for how to share code during pairing, there's a workshop
+recording here.](https://youtu.be/uLbPGE6pRdc?t=0s)._
+
 Pairing is a very powerful practice for software engineers. There are two
 reasons:
 
@@ -10,16 +13,16 @@ reasons:
    on what you have done. People will come to you to ask questions, slowing both
    of you down. Pairing ensures at least two people know everything.
 
-I have seen very capable engineers burn out due to the last one — be warned!
+I have seen very capable engineers burn out due to the second point — be warned!
 
 Here is a short guide on how to pair. There are six steps:
 
-1. [Get to know each other](#step-0-get-to-know-each-other)
-2. [Decide where to work](#step-1-decide-where-to-work)
-3. [Agree your approach](#step-2-agree-your-approach)
-4. [Agree your rhythm](#step-3-agree-your-rhythm)
-5. [Pair!](#step-4-pair)
-6. [Reflect](#step-5-reflect)
+- [Step 0: Get to know each other](#step-0-get-to-know-each-other)
+- [Step 1: Decide where to work](#step-1-decide-where-to-work)
+- [Step 2: Agree your approach](#step-2-agree-your-approach)
+- [Step 3: Agree your rhythm](#step-3-agree-your-rhythm)
+- [Step 4: Pair!](#step-4-pair)
+- [Step 5: Reflect](#step-5-reflect)
 
 [There's also a video of some real-world pairing if you want to see how it works in industry.](#a-professional-example)
 
@@ -30,7 +33,7 @@ If you've not worked together recently, ask each other in turn:
 1. How do you feel about pairing?
 2. What have your experiences in the past been like?
 
-If you have worked together before recently then move on to the next step.
+If you have worked together recently then move on to the next step.
 
 ### Step 1: Decide where to work
 

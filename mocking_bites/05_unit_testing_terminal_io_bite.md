@@ -122,6 +122,12 @@ string_repeater.run
 # TWIXTWIXTWIXTWIXTWIXTWIXTWIXTWIXTWIXTWIX
 ```
 
+## Moving On
+
+You've now completed all of the core challenges for this module.
+
+[Head back to the main sequence to take on the project.](../README.md)
+
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

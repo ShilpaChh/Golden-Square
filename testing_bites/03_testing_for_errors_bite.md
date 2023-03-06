@@ -50,10 +50,22 @@ RSpec.describe Reminder do
 end
 ```
 
-This will not work. <!-- OMITTED -->
+The test does not run as expected:
+
+```bash
+Failures:
+
+  1) Reminder when no task is set fails
+     Failure/Error: result = reminder.remind()
+     
+     RuntimeError:
+       No reminder set!
+     # ./reminder.rb:12:in `remind'
+     # ./reminder_spec.rb:7:in `block (3 levels) in <top (required)>'
+```
 
 This is because errors behave in an unusual way. They stop the program
-immediately, so the method doesn't return anything any more — it doesn't even
+immediately, so the `remind` method doesn't return anything any more — it doesn't even
 get that far!
 
 To test that errors are thrown properly, we have to adapt our approach:

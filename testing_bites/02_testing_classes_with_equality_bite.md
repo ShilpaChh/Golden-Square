@@ -19,6 +19,7 @@ So we need to adapt our approach. Here is an example:
 
 ```ruby
 # File: lib/reminder.rb
+
 class Reminder
   def initialize(name)
     @name = name
