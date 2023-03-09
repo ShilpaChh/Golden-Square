@@ -12,5 +12,4 @@ class MusicTrack
         return @track_music
     end
 
-
 end
