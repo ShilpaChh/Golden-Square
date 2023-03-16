@@ -8,7 +8,13 @@ RSpec.describe "doubles challenge" do
       allow(task_list).to receive(:add).with(task)
       allow(task_list).to receive(:list).and_return([task])
       allow(task_list).to receive(:count).and_return(1)
+
       allow(task_list).to receive(:clear).and_return(:success)
+      # expect(task_list).to receive(:clear).and_return(:success)
+      # both allow and expect work
+          # expected: :success
+          # got: [:success] -> discard big brackets
+
   
       # Don't edit below
       task_list.add(task)
